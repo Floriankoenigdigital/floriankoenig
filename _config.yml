@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Florian König"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/floriankoenigdigital.jpg"
   bio              : "Mechanical Engineer"
   location         : "Aachen, Germany"
   email            :
