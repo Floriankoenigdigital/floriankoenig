@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Florian König"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Engineer."
-  location         : "NRW, Germany"
+  bio              : "Mechanical Engineer"
+  location         : "Aachen, Germany"
   email            :
   links:
     - label: "Email"
@@ -279,3 +279,11 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+  # _pages
+   - scope:
+       path: ""
+       type: pages
+    values:
+       layout: single
+       author_profile: true
