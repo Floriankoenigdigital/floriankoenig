@@ -5,6 +5,6 @@ header:
   image:"/images/aboutimage.jpg"
 ---   
    
-   Group leader of the sliding bearing group
+   Sliding bearing
 
 

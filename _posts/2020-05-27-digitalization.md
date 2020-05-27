@@ -1,10 +1,10 @@
 ---
 title: "Welcome"
-date: "2020-05-27"
+date: 2020-05-27
 tags: [digital,life]
 header:
   image:"/images/aboutimage.jpg"
-  excerpt: "digital, life, etc"
+excerpt: "digital, life, etc"
 ---
 
 
