@@ -3,7 +3,10 @@ title: "Welcome"
 date: 2020-05-27
 tags: [digital,life]
 header:
-   image: "/images/stst_fast.gif"
+ image: "/images/stst_fast.gif"
+ image: "/images/test.jpg"
+  image_description: "Bearing test and simulation"
+  caption: "Photo credit: Florian König"
 excerpt: "digital, life, etc"
 ---s
 
