@@ -118,7 +118,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "xing"
-      icon: "fab fa-fw fa-xing"
+      icon: "fab fa-fw fa-xing-square"
        url: "https://www.xing.com/profile/Florian_Koenig44"
 # Site Footer
 footer:
