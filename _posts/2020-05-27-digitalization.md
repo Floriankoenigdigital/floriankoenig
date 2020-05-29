@@ -3,9 +3,9 @@ title: "Welcome"
 date: 2020-05-27
 tags: [digital,life]
 header:
-  image:"/images/stst_fast.gif"
+   image: "/images/stst_fast.gif"
 excerpt: "digital, life, etc"
----
+---s
 
 
 # H1 WELCOME
