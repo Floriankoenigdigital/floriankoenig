@@ -123,6 +123,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.de/citations?user=ccnO1QwAAAAJ&hl"
+    - label: "Researchgate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Florian_Koenig2"     
 # Site Footer
 footer:
   links:
