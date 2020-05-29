@@ -3,7 +3,7 @@ title: "Welcome"
 date: 2020-05-27
 tags: [digital,life]
 header:
-  image:"/images/aboutimage.jpg"
+  image:"/images/stst_fast.gif"
 excerpt: "digital, life, etc"
 ---
 
