@@ -245,6 +245,13 @@
           </a>
         </li>
       {% endif %}
+	  {% if author.google %}
+        <li>
+          <a href="https://www.google.com/{{ author.facebook }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-google" aria-hidden="true"></i><span class="label">Google</span>
+          </a>
+        </li>
+      {% endif %}
 
       {% include author-profile-custom-links.html %}
     </ul>

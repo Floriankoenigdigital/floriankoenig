@@ -120,6 +120,9 @@ author:
     - label: "XING"
       icon: "fab fa-fw fa-xing-square"
       url: "https://www.xing.com/profile/Florian_Koenig44"
+    - label: "Google"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.de/citations?user=ccnO1QwAAAAJ&hl"
 # Site Footer
 footer:
   links:
