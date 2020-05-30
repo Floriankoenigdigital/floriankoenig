@@ -5,7 +5,7 @@ tags: [digital,life]
 header:
  image: "/images/stst_fast.gif"
 excerpt: "digital, life, etc"
----s
+---
 
 
 # H1 WELCOME
