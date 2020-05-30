@@ -15,8 +15,8 @@ excerpt: "digital, life, etc"
 ### H3 welcome
 # <figure class="half">
 <figure >
-   # <a href="/images/stst_fast.gif"><img src="/images/stst_fast.gif"></a>
-    <a href="/images/stst_fast.gif"><img src="/images/stst_fast.gif"></a>
+   # <a href="floriankoenigdigital/images/stst_fast.gif"><img src="floriankoenigdigital/images/stst_fast.gif"></a>
+    <a href="floriankoenigdigital/images/stst_fast.gif"><img src="floriankoenigdigital/images/stst_fast.gif"></a>
     <figcaption>Sliding bearing in start-stop operation.</figcaption>
 </figure>
 # <img src="{https://github.com/Floriankoenigdigital/floriankoenigdigital/tree/master//images/stst_fast.gif" alt="Description">
