@@ -13,7 +13,12 @@ excerpt: "digital, life, etc"
 # H1 WELCOME
 ## H2 Welcome
 ### H3 welcome
-<img src="{{ site.url }}{{ site.baseurl }} /images/stst_fast.gif" alt="Description">
+<figure class="half">
+    <a href="/images/stst_fast.gif"><img src="/images/stst_fast.gif""></a>
+    <a href="/images/stst_fast.gif"><img src="/images/stst_fast.gif""></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+# <img src="{https://github.com/Floriankoenigdigital/floriankoenigdigital/tree/master//images/stst_fast.gif" alt="Description">
 Welcome *welcome* **welcome*
 
 list
