@@ -6,7 +6,6 @@ header:
  image: "/images/test.jpg"
  image_description: "Bearing test and simulation"
  caption: "Photo credit: Florian König"
- teaser: "/images/stst_fast.gif"
 excerpt: "digital, life, etc"
 ---
 
@@ -14,7 +13,7 @@ excerpt: "digital, life, etc"
 # H1 WELCOME
 ## H2 Welcome
 ### H3 welcome
-
+<img src="{{ site.url }}{{ site.baseurl }} /images/stst_fast.gif" alt="Description">
 Welcome *welcome* **welcome*
 
 list
@@ -27,4 +26,3 @@ list:
 2. two
 3. three
 
-<img src="{{ site.url }}{{ site.baseurl }} /images/aboutimage.jpg" alt="Description">
