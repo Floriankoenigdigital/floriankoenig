@@ -1,9 +1,9 @@
 ---
 title: "Welcome"
-date: 2020-05-27
+date: 2020-05-27T13:23:41-04:00
 tags: [digital,life]
 header:
- image: "/images/stst_fast.gif"
+ teaser: "/images/stst_fast.gif"
 {% include figure image_path="/images/stst_fast.gif" alt="this is a placeholder image" caption="This is a figure caption." %}
 excerpt: "digital, life, etc"
 ---
