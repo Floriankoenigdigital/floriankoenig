@@ -13,10 +13,11 @@ excerpt: "digital, life, etc"
 # H1 WELCOME
 ## H2 Welcome
 ### H3 welcome
-<figure class="half">
-    <a href="/images/stst_fast.gif"><img src="/images/stst_fast.gif""></a>
-    <a href="/images/stst_fast.gif"><img src="/images/stst_fast.gif""></a>
-    <figcaption>Caption describing these two images.</figcaption>
+# <figure class="half">
+<figure >
+   # <a href="/images/stst_fast.gif"><img src="/images/stst_fast.gif"></a>
+    <a href="/images/stst_fast.gif"><img src="/images/stst_fast.gif"></a>
+    <figcaption>Sliding bearing in start-stop operation.</figcaption>
 </figure>
 # <img src="{https://github.com/Floriankoenigdigital/floriankoenigdigital/tree/master//images/stst_fast.gif" alt="Description">
 Welcome *welcome* **welcome*
