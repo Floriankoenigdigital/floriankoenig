@@ -126,6 +126,12 @@ author:
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Florian_Koenig2"     
+    - label: "Publications"
+      icon: "fab fa-fw fa-database"
+      url: "https://publications.rwth-aachen.de/search?ln=en&p=aid:%22P%3A%28DE-82%29IDM02771%22"
+    - label: "MSE @ RWTH"
+      icon: "fab fa-fw fa-flash"
+      url: "https://www.imse.rwth-aachen.de/cms/~mpxi/IMSE/?lidx=1"     
 # Site Footer
 footer:
   links:
