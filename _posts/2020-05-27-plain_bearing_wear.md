@@ -1,7 +1,7 @@
 ---
-title: "Welcome"
+title: "Plain bearing analysis"
 date: 2020-05-27T13:23:41-04:00
-tags: [digital,wear]
+tags: [digital,plain bearing]
 header:
  image: "/images/test.jpg"
  image_description: "Bearing test and simulation"
@@ -10,9 +10,8 @@ excerpt: "digital, life, etc"
 ---
 
 
-# H1 WELCOME
-## H2 Welcome
-### H3 welcome
+# Behaviour of plain bearings in start-stop operation
+
 # <figure class="half">
 <figure>
    # <a href="/images/stst_fast.gif"><img src="/images/stst_fast.gif"></a>
@@ -20,15 +19,3 @@ excerpt: "digital, life, etc"
     <figcaption>Sliding bearing in start-stop operation.</figcaption>
 </figure>
 # <img src="{https://github.com/Floriankoenigdigital/floriankoenigdigital/tree/master//images/stst_fast.gif" alt="Description">
-Welcome *welcome* **welcome*
-
-list
-* one
-+ two
-- three
-
-list:
-1. one
-2. two
-3. three
-
