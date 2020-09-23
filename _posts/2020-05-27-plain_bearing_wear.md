@@ -1,16 +1,16 @@
 ---
-title: "Plain bearing analysis"
+title: "Numerical analysis of plain bearings"
 date: 2020-05-27T13:23:41-04:00
-tags: [digital,plain bearing]
+tags: [digital,plain bearings]
 header:
  image: "/images/test.jpg"
  image_description: "Bearing test and simulation"
  caption: "Photo credit: Florian König"
-excerpt: "digital, life, etc"
+excerpt: "Mixed elasto-hydrodynamic bearing simulation"
 ---
 
 
-# Behaviour of plain bearings in start-stop operation
+## Behaviour of plain bearings in start-stop operation
 
 # <figure class="half">
 <figure>
