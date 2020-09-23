@@ -1,11 +1,9 @@
 ---
-layout: archive
+title: "Imprint"
 permalink: /imprint/
-title: "imprint"
-author_profile: true
-header:   
-   image:"/images/aboutimage.jpg"
----
+header: 
+  image:"/images/aboutimage.jpg"
+---   
 Florian König
 <figure class="half">
 <figure>

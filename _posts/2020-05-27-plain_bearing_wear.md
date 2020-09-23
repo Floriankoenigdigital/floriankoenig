@@ -12,7 +12,6 @@ excerpt: "Mixed elasto-hydrodynamic bearing simulation"
 
 ## Behaviour of plain bearings in start-stop operation
 
-# <figure class="half">
 <figure>
    # <a href="/images/stst_fast.gif"><img src="/images/stst_fast.gif"></a>
     <a href="https://floriankoenigdigital.github.io/floriankoenigdigital/images/stst_fast.gif"><img src="https://floriankoenigdigital.github.io/floriankoenigdigital/images/stst_fast.gif"></a>
