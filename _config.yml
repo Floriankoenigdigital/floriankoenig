@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 100
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -127,10 +127,10 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Florian_Koenig2"     
     - label: "Publications"
-      icon: "fab fa-fw fa-database"
+      icon: "fab fa-fw fa-stackoverflow"
       url: "https://publications.rwth-aachen.de/search?ln=en&p=aid:%22P%3A%28DE-82%29IDM02771%22"
     - label: "MSE @ RWTH"
-      icon: "fab fa-fw fa-flash"
+      icon: "fab fa-fw fa-link"
       url: "https://www.imse.rwth-aachen.de/cms/~mpxi/IMSE/?lidx=1"     
 # Site Footer
 footer:
